@@ -1,6 +1,6 @@
 ## Few-Shot CLIP Adaptation on Oxford Flowers102
 
-This project studies few-shot adaptation of CLIP on Oxford Flowers102 with 10 shots per base class. We evaluate base and novel accuracy and the harmonic mean, and compare multiple prompt-based adaptation strategies.
+This project studies few-shot adaptation of CLIP on Oxford Flowers102 with 10 shots per base class. I evaluate base and novel accuracy and the harmonic mean, and compare multiple prompt-based adaptation strategies.
 
 ## Methods Tried (Brief)
 
